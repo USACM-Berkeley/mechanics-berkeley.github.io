@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<title>UC Berkeley / LBL Applied Math Seminar</title>
+	<!-- <base href="https://mechanics-berkeley.github.io/" /> -->
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" media="screen, projection" href="../default.css" />
+	<meta name="description" content="An outreach seminar hosted by the USACM student chapter at berkeley" />
+	<meta name="keywords" content="Berkeley" />
+	<meta name="author" content="Ian Li" />
+	<meta name="robots" content="all" />
+	<link href="index.html" rel="start" title="Seminar Index" />
+</head>
+<body>
+	<div id="container">
+		<div id="head">
+			<div id="maintitle">
+				<h1><a href="../index.html">MechBytes Talks</a></h1>
+			<h2>USACM student chapter at UC Berkeley</h2>
+			</div>
+
+			<h3>Organized by <a href=" ">Xuan Hu</a >
+				
+		</div>
+            <h4 class="top">A Stress-Intensity-Factor-Driven Phase Field Modeling of Mixed Mode Fracture</h4>
+            <h5>
+                <b>Xuan Hu, UC Berkeley Ph.D. student (advised by Prof. Shaofan Li)</b>
+            </h5>
+            <h5>
+                11/21, 2025 at 3:00PM-3:30PM in 217 McLaughlin Hall (for in-person talks) and <a href="https://berkeley.zoom.us/j/6568186472">https://berkeley.zoom.us/j/6568186472</a>
+            </h5>
+            <p><b>Abstract:</b> 
+				        Conventional phase field modeling of fracture uses the degraded strain energy density (SED) as a material 
+                damage index to drive crack growth. To avoid non-physical evolution in the crack phase-field, various SED 
+                splitting schemes have been adopted, resulting in the development of ‘‘anisotropic’’-SED-based formulations. 
+                In this work, we propose a stress-intensity-factor-driven (SIF-driven) phase field method as an alternative 
+                to better capture the realistic crack nucleation and propagation under mixed-mode loading. The key 
+                contributions of this work include: (1) accurate representation of crack tip stress asymptotic field, (2) 
+                precise prediction of crack growth and material failure without the need for additional splitting techniques, 
+                (3) bridging the gap between phase-field formulation for fracture and well-established LEFM theories, and (4) 
+                providing a numerically efficient and straightforward implementation that closely resembles that of 
+                conventional phase field methods.</p>
+
+			<p><b>About the speaker:</b> 
+				        Xuan Hu is a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of 
+                California, Berkeley, working with Professor Shaofan Li. He earned his master’s degree from UC Berkeley in 
+                2021 and his bachelor’s from Wuhan University in 2017. His research focuses on computational mechanics, 
+                material and structural failure, with expertise in advanced numerical methods such as the phase-field method 
+                and bond-associated peridynamics.</p>
+            <br/>
+            <div id="foot">
+                <div class="links">
+                    <a href="../index.html">USACM student chapter at UC Berkeley</a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
